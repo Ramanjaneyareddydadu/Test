@@ -1,0 +1,8 @@
+github password:
+
+asdf;lkj@123456789
+
+jenkins localhost:8080 credentials
+
+user id:	ramanjaneyareddydadu
+Password: 	Password@123

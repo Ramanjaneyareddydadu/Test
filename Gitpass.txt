@@ -6,3 +6,7 @@ jenkins localhost:8080 credentials
 
 user id:	ramanjaneyareddydadu
 Password: 	Password@123
+
+Tomcat localhost:8081 credentials
+uder id: deployer
+password: deployer

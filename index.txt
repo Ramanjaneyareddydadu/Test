@@ -1,1 +1,3 @@
 for practicing amend command to re edit the message after committing.	
+
+opening directly from cmd prompt. 
